@@ -8,9 +8,7 @@ const SafeAreaView = styled(RNSafeAreaView);
 export default function App() {
   return (
     <SafeAreaView className="flex-1 p-5 bg-background ">
-      <Text className="text-xl font-bold text-blue-500">
-        Welcome to Nativewind!
-      </Text>
+      
     </SafeAreaView>
   );
 }
